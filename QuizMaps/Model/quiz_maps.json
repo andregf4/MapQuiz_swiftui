@@ -1,0 +1,236 @@
+[
+    {
+        "nome" : "Maravilhas do Mundo Antigo",
+        "cards" :
+        [
+            {
+                "nome" : "Grande Pirâmide de Gizé",
+                "latitude" : 29.9788717,
+                "longitude" : 31.1344325,
+                "imagem" : "https://upload.wikimedia.org/wikipedia/commons/2/2b/Piramida_Cheopsa.jpg"
+            },
+            {
+                "nome" : "Jardins Suspensos da Babilônia",
+                "latitude" : 32.5417781,
+                "longitude" : 44.4209855,
+                "imagem" : "https://s2.glbimg.com/FL4pqvHbKa3OAz4dRCsggUwNfsE=/e.glbimg.com/og/ed/f/original/2022/08/12/voce-conhece-os-jardins-suspensos-da-babilonia00002.png"
+            },
+            {
+                "nome" : "Templo de Ártemis",
+                "latitude" : 37.94955627,
+                "longitude" : 27.36393155,
+                "imagem" : "https://upload.wikimedia.org/wikipedia/commons/1/1d/Miniaturk_009.jpg"
+            },
+            {
+                "nome" : "Estátua de Zeus em Olímpia",
+                "latitude" : 37.6378532,
+                "longitude" : 21.6300456,
+                "imagem" : "https://upload.wikimedia.org/wikipedia/commons/6/66/Le_Jupiter_Olympien_ou_l%27art_de_la_sculpture_antique.jpg"
+            },
+            {
+                "nome" : "Mausoléu de Halicarnasso",
+                "latitude" : 37.0378917,
+                "longitude" : 27.4215415,
+                "imagem" : "https://gorafa.com.br/wp-content/uploads/2020/08/O-Mausole%CC%81u-de-Halicarnasso.jpg"
+            },
+            {
+                "nome" : "Colosso de Rodes",
+                "latitude" : 36.4511055,
+                "longitude" : 28.2267759,
+                "imagem" : "https://upload.wikimedia.org/wikipedia/commons/8/8a/Coloso_de_Rodas..jpg"
+            },
+            {
+                "nome" : "Farol de Alexandria",
+                "latitude" : 31.2141956,
+                "longitude" : 29.8887372,
+                "imagem" : "https://upload.wikimedia.org/wikipedia/commons/3/33/PHAROS2013-3000x2250.jpg"
+            }
+        ]
+    },
+    {
+        "nome" : "Maravilhas do Mundo Moderno",
+        "cards" :
+        [
+            {
+                "nome" : "Cristo Redentor",
+                "latitude" : -22.9520561,
+                "longitude" : -43.2105388,
+                "imagem" : "https://upload.wikimedia.org/wikipedia/commons/9/98/Cidade_Maravilhosa.jpg"
+            },
+            {
+                "nome" : "Grande Muralha da China",
+                "latitude" : 40.4382356,
+                "longitude" : 116.5615142,
+                "imagem" : "https://upload.wikimedia.org/wikipedia/commons/6/6f/The_Great_Wall_of_China_at_Jinshanling.jpg"
+            },
+            {
+                "nome" : "Petra",
+                "latitude" : 30.3251251,
+                "longitude" : 35.4690824,
+                "imagem" : "https://upload.wikimedia.org/wikipedia/commons/3/3b/Petra_El_Khasneh.jpg"
+            },
+            {
+                "nome" : "Coliseu",
+                "latitude" : 41.8901633,
+                "longitude" : 12.4923323,
+                "imagem" : "https://upload.wikimedia.org/wikipedia/commons/5/53/Colosseum_in_Rome%2C_Italy_-_April_2007.jpg"
+            },
+            {
+                "nome" : "Chichén Itzá",
+                "latitude" : 20.6829370,
+                "longitude" : -88.5686402,
+                "imagem" : "https://upload.wikimedia.org/wikipedia/commons/7/7a/Chichen-Itza-Castillo-Seen-From-East.JPG"
+            },
+            {
+                "nome" : "Machu Picchu",
+                "latitude" : -13.1627455,
+                "longitude" : -72.5450051,
+                "imagem" : "https://upload.wikimedia.org/wikipedia/commons/e/eb/Machu_Picchu%2C_Peru.jpg"
+            },
+            {
+                "nome" : "Taj Mahal",
+                "latitude" : 27.1749537,
+                "longitude" : 78.0421961,
+                "imagem" : "https://upload.wikimedia.org/wikipedia/commons/d/de/Wah_Taj_%21%21_%28cropped%29.jpg"
+            }
+        ]
+    },
+    {
+        "nome" : "Estádios de Futebol",
+        "cards" :
+        [
+            {
+                "nome" : "Maracanã",
+                "latitude" : -22.912339,
+                "longitude" : -43.2302116,
+                "imagem" : "https://upload.wikimedia.org/wikipedia/commons/a/a4/Maracana_2022.jpg"
+            },
+            {
+                "nome" : "Old Trafford",
+                "latitude" : 53.4563245,
+                "longitude" : -2.2868320,
+                "imagem" : "https://upload.wikimedia.org/wikipedia/commons/2/2c/Manchester_United_Old_Trafford_%28cropped%29.jpg"
+            },
+            {
+                "nome" : "La Bombonera",
+                "latitude" : -34.6356834,
+                "longitude" : -58.3647671,
+                "imagem" : "https://turista100rumo.com.br/wp-content/uploads/2024/01/la-bombonera-5.png"
+            },
+            {
+                "nome" : "Santiago Bernabéu",
+                "latitude" : 40.4530335,
+                "longitude" : -3.6883156,
+                "imagem" : "https://s2-oglobo.glbimg.com/pHxqcoudEuG38qWBaKw1LhnDfFk=/0x0:1029x630/888x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2023/B/A/l80Ug4Rmyl3eD0posGEg/imagem-do-whatsapp-de-2023-09-02-a-s-08.19.35.jpg"
+            },
+            {
+                "nome" : "San Siro",
+                "latitude" : 45.4780188,
+                "longitude" : 9.1239167,
+                "imagem" : "https://images.adsttc.com/media/images/64df/4757/fbc6/582d/9274/e24c/slideshow/milans-san-siro-stadium-spared-from-demolition-owning-to-its-historical-significance_2.jpg?1692354428"
+            },
+            {
+                "nome" : "Camp Nou",
+                "latitude" : 41.3808664,
+                "longitude" : 2.1227836,
+                "imagem" : "https://static.poder360.com.br/2024/06/Sem-titulo-2-2024-06-14T094934.861-848x477.jpg"
+            },
+            {
+                "nome" : "Anfield Road",
+                "latitude" : 53.4308288,
+                "longitude" : -2.9609161,
+                "imagem" : "https://www.thisisanfield.com/wp-content/uploads/2021-09-04-002-Anfield.jpeg"
+            },
+            {
+                "nome" : "Estádio Azteca",
+                "latitude" : 19.3028555,
+                "longitude" : -99.1504753,
+                "imagem" : "https://calciodeal.com/wp-content/uploads/2023/08/stazio-azteca-citta-del-messico.jpg"
+            },
+            {
+                "nome" : "Wembley Stadium",
+                "latitude" : 51.5559855,
+                "longitude" : -0.2795269,
+                "imagem" : "https://upload.wikimedia.org/wikipedia/commons/d/d2/London_Wembley.jpg"
+            },
+            {
+                "nome" : "Estádio Cívitas Metropolitano",
+                "latitude" : 40.4361839,
+                "longitude" : -3.5995142,
+                "imagem" : "https://www.maisfutebol.com.br/wp-content/uploads/2024/04/Estadio-civitas-metropolitano.png"
+            },
+            {
+                "nome" : "Lusail Stadium",
+                "latitude" : 25.4207497,
+                "longitude" : 51.4903692,
+                "imagem" : "https://visitqatar.com/adobe/dynamicmedia/deliver/dm-aid--24119c9b-b586-49e8-aba7-0e71efca4cc5/lusail-stadium-5.jpg?quality=75&preferwebp=true&width=2048"
+            }
+        ]
+    },
+    {
+        "nome" : "Aeroportos Nacionais",
+        "cards" :
+        [
+            {
+                "nome": "Guarulhos - GRU",
+                "latitude": -23.435556,
+                "longitude": -46.473056,
+                "imagem": "https://aeromagazine.uol.com.br/media/_versions/aeroporto-guarulhos-delfim-martins-divulgacao-gru-airport_widelg.jpg"
+            },
+            {
+                "nome": "Galeão - GIG",
+                "latitude": -22.808903,
+                "longitude": -43.243647,
+                "imagem": "https://papodeaeroporto.com.br/wp-content/uploads/2019/01/Aeroporto-do-Galea%CC%83o-Ae%CC%81rea.jpg"
+            },
+            {
+                "nome": "Brasília - BSB",
+                "latitude": -15.869167,
+                "longitude": -47.920833,
+                "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuV1G_goRuzvwy5CEBNEZE5fvcSyktREcwnw&s"
+            },
+            {
+                "nome": "Confins - CNF",
+                "latitude": -19.624444,
+                "longitude": -43.971944,
+                "imagem": "https://aeroin.net/wp-content/uploads/2020/07/Aeroporto-Internacional-de-BH.jpg"
+            },
+            {
+                "nome": "Salvador - SSA",
+                "latitude": -12.908611,
+                "longitude": -38.3225,
+                "imagem": "https://aeroin.net/wp-content/uploads/2021/11/Aeroporto-Salvador-21112201.jpg"
+            },
+            {
+                "nome": "Guararapes - REC",
+                "latitude": -8.126389,
+                "longitude": -34.923611,
+                "imagem": "https://viajeleve.net/v23/wp-content/uploads/2021/06/Aeroporto-Internacional-do-Recife-Guararapes-Gilberto-Freyre.jpg"
+            },
+            {
+                "nome": "Porto Alegre - POA",
+                "latitude": -29.993889,
+                "longitude": -51.171389,
+                "imagem": "https://www.23sul.com.br/wp-content/uploads/2019/10/224_POAjpg01-4.jpg"
+            },
+            {
+                "nome": "Fortaleza - FOR",
+                "latitude": -3.775833,
+                "longitude": -38.532222,
+                "imagem": "https://cdn.panrotas.com.br/portal-panrotas-statics/media-files-cache/258702/ddf4575f35eb1afd320f214d4e403721imagem02/88,0,915,546/670,400,0.44/0/default.jpg"
+            },
+            {
+                "nome": "Manaus - MAO",
+                "latitude": -3.038611,
+                "longitude": -60.049721,
+                "imagem": "https://s2-g1.glbimg.com/BsxMW9XY7kAGXqgb5kfVQ04QPhM=/0x0:1280x823/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2018/o/u/d7sf9vQjeQe6i6rwOrag/4240fd3a-29f7-4776-b7cc-cf2ba25ccef9.jpg"
+            },
+            {
+                "nome": "Afonso Pena - CWB",
+                "latitude": -25.528611,
+                "longitude": -49.175833,
+                "imagem": "https://jpimg.com.br/uploads/2018/01/curitiba_aerea_aeroportoafonsopena1304_2694-e1482930843441.jpg"
+            }
+        ]
+    }
+]
