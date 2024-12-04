@@ -1,4 +1,4 @@
-A quiz in GeoGuessr style (https://www.geoguessr.com/) with a tourist attractions all over the world.
+A quiz in GeoGuessr style (https://www.geoguessr.com/) with some tourist attractions all over the world.
 
 | SCREEN "HOME" | SCREEN "PACK" | SCREEN "MAP" |
 | ------------- | ------------- | ------------- |
